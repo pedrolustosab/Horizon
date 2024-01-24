@@ -1,4 +1,4 @@
-# Projeto de Análise de Cancelamento Hoteleiro
+# Horizon | Projeto de Análise de Cancelamento Hoteleiro
 
 #### Introdução
 Bem-vindo ao projeto de Análise de Cancelamento Hoteleiro! Este repositório contém uma análise aprofundada das taxas de cancelamento na indústria hoteleira durante os anos de 2015, 2016 e 2017. O objetivo é compreender padrões de cancelamento, identificar fatores impactantes e propor estratégias para otimização de contratos e economia de recursos.
